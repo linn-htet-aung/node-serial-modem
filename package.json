@@ -1,0 +1,18 @@
+{
+  "name": "serial-modem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "D": "^1.0.0",
+    "nodemon": "^2.0.15",
+    "serialport-gsm": "^3.4.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
